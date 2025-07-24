@@ -18,7 +18,7 @@
 - 🔐 Focused on performance, security, and clean code with **Socket.IO**, **Nest.js**, and **MongoDB**
 - 🛠️ Personal project: **SocialSphere** – a complete social media backend with login, posts, comments, friend system, OTP-based reset
 - 💼 Looking for exciting full-time or remote full-stack roles
-- 🗣️ Fluent in Bengali & Hindi; improving professional English communication
+- 🗣️ Fluent in Bengali , Hindi & English communication
 
 ---
 
